@@ -25,7 +25,7 @@ i försäljningen.
 ## Kom igång
 ```bash
 # klona projektet
-git 
+git clone https://github.com/Bilalmah1/f-rs-ljnings-analys-SQL.git
 
 # Skapa och aktivera virtuell miljö
 python -m venv .venv
